@@ -94,3 +94,4 @@ console.assert(
   assessment('太郎') === assessment('太郎'),
   '入力が同じなら同じ診断結果を出力する処理が正しくありません。'
 );
+
